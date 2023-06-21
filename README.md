@@ -19,12 +19,12 @@ To get started with this project, please follow these steps:
    git clone https://github.com/Asrar-Ahammad/House-price-prediction.git
 
 2. Set up the Python environment with the required dependencies. It is recommended to use a virtual environment:
-
-`cd House-price-prediction`
-`python -m venv env`
-`source env/bin/activate`  # For Unix/Linux
-`env\Scripts\activate`  # For Windows
-`pip install -r requirements.txt`
+    ```shell
+    `cd House-price-prediction`
+    `python -m venv env`
+    `source env/bin/activate`  # For Unix/Linux
+    `env\Scripts\activate`  # For Windows
+    `pip install -r requirements.txt`
 
 3. Run the `programs/house_price_prediction.ipynb` sequentially to execute the code and reproduce the results.
 
